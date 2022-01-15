@@ -4,8 +4,6 @@
 **zhangyu0310/zhangyu0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - :office: I’m currently working at a small company in Shanghai CN.
 - 🔭 I’m currently working on game server development.
 - 🌱 I’m currently learning game development and distributed database.
