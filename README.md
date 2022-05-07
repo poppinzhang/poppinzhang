@@ -7,7 +7,7 @@
 - :office: I’m currently working at a small company in Shanghai CN.
 - 🔭 I’m currently working on game server development.
 - 🌱 I’m currently learning game development and distributed database.
-- 📫 How to reach me: Twitter @cn_ZooKeeper.
+- 📫 How to reach me: Twitter @cn_LittleYu.
 - ⚡ Fun fact: Popping dancer without Supreme. Love HipHop :metal:. Love electronic games :video_game: & anime.
 
 :point_down: Klein Blue: #002FA7 & bilibili Pink: #FB7299
